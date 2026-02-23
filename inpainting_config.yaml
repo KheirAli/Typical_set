@@ -22,4 +22,5 @@ measurement:
 
   noise:
     name: gaussian
-    sigma: 0.9
+    sigma: 0.5
+    
